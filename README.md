@@ -1,7 +1,3 @@
-Проект по предмету анализ данных на Python
-
-https://nbviewer.org/github/KatePoliakh/hse-projects/blob/main/data-analysis-project-2023/wb_project.ipynb
-
 # Проект по предмету анализ данных на Python - Анализ данных карточек товаров книг
 
 Этот проект представляет собой программу для сбора информации о книгах с веб-сайта Wildberries с использованием Selenium и WebDriver Manager с целью дальнейшего анализа собранной информации.
