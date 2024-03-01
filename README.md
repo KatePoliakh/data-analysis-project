@@ -12,7 +12,7 @@
 
 ## Использованные технологии
 
-- Python 3.0
+- Python 3.11
 - Библиотеки: Selenium, WebDriver Manager, Pandas, Matplotlib 
 
 
